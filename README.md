@@ -19,7 +19,6 @@ A budget tracking application designed for small massage businesses to monitor f
 **GUI Version:**
 
 
-
 <img width="499" alt="Screenshot 2025-06-30 at 4 04 03 pm" src="https://github.com/user-attachments/assets/2b46aa5e-8f15-40f9-a1e9-55cc67742c2f" />
 
 
@@ -61,4 +60,4 @@ This version includes a graphical interface and reads from `budget_data.txt`.
 
 ## Project Documentation
 
-[cite_start]For a detailed breakdown of the business rules, flowchart, and pseudocode, please see the [Project-Documentation.pdf](Project-Documentation.pdf) file. [cite: 1, 15, 16]
+For a detailed breakdown of the business rules, flowchart, and pseudocode, please see the [Project-Documentation.pdf](Project-Documentation.pdf) file.
