@@ -1,0 +1,4 @@
+expense, Rent, 500
+expense, Supplies, 300
+income, Service, 1200
+income, Product Sales, 450
